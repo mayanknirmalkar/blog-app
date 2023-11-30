@@ -41,7 +41,7 @@ const Home = () => {
 
 
         }
-        setStories(data.data)
+        setStories(data)
         setPages(data.pages)
 
         setLoading(false)
