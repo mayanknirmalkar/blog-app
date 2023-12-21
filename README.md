@@ -2,7 +2,7 @@
 
 Welcome to the Fullstack Blog App repository! This project is a full-stack blog application developed with a focus on creating a seamless user experience. Below, you'll find information about the features, technologies used, and how to set up the project locally.
 
-## Features
+ Features
 
 1. *Responsive UI with CKEditor:*
    - The application boasts a user-friendly and responsive UI, ensuring an optimal experience on various devices.
@@ -36,12 +36,12 @@ Welcome to the Fullstack Blog App repository! This project is a full-stack blog 
 Backend Deployed app link https://blog-app-server-fmci.onrender.com
 
 To use the app,
-## cd client
-## npm install
-## npm start
+ cd client
+ npm install
+ npm start
 
-## cd server
-## npm install
-## npm start
+ cd server
+ npm install
+ npm start
 
 Happy Blogging!
