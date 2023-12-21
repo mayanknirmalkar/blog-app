@@ -35,13 +35,19 @@ Welcome to the Fullstack Blog App repository! This project is a full-stack blog 
 
 Backend Deployed app link https://blog-app-server-fmci.onrender.com
 
-To use the app,
+To use the app, \n
  cd client
+ <br>
  npm install
+  <br>
  npm start
-
+  <br>
+  <br>
  cd server
+  <br>
  npm install
+  <br>
  npm start
-
+  <br>
+ <br>
 Happy Blogging!
